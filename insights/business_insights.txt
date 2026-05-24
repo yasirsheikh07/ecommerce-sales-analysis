@@ -1,0 +1,17 @@
+----------------------------------------------------- SQL Insights ----------------------------------------------------------------
+
+1. Furniture category generated the highest sales among all categories.
+2. Total sales recorded from SQL analysis were 28609.94.
+3. Technology category generated lower sales compared to Furniture.
+4. Total orders placed were 145.
+5. Riverside Palais Royal Lawyers Bookcase was among the top-selling products.
+
+----------------------------------------------------- BI Insights ----------------------------------------------------------------
+
+1. Total sales reached $2.26M across 10K orders.
+2. Technology category generated the highest revenue contribution.
+3. West region contributed the highest percentage of total sales.
+4. Florida emerged as the top-performing state by sales.
+5. Sales peaked during November and December, indicating strong year-end performance.
+6. February recorded the lowest sales performance.
+7. Office Supplies category generated comparatively lower revenue than Technology and Furniture.
