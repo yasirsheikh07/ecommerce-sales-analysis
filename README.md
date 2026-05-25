@@ -3,6 +3,10 @@
 ## Project Overview
 Analyzed e-commerce sales data using SQL and Power BI to identify sales trends, top-performing categories, customers, and regions.
 
+## Dashboard Preview
+
+![Dashboard](https://github.com/yasirsheikh07/ecommerce-sales-analysis/raw/main/screenshots/dashboard_overview.jpeg)
+
 ## Tools Used
 - SQL (MySQL)
 - Power BI
