@@ -62,4 +62,4 @@ Actual vs Predicted Sales visualization generated successfully.
 
 ## ML Visualization
 
-![ML Graph](https://github.com/yasirsheikh07/ecommerce-sales-analysis/raw/main/ml_model/ml_graph.png)
+![ML Graph](https://github.com/yasirsheikh07/ecommerce-sales-analysis/raw/main/ml_model/ml_graph)
