@@ -59,3 +59,7 @@ Built a Sales Prediction Model using Linear Regression in Python.
 
 ### ML Output
 Actual vs Predicted Sales visualization generated successfully.
+
+## ML Visualization
+
+![ML Graph](https://github.com/yasirsheikh07/ecommerce-sales-analysis/raw/main/ml_model/actual_vs_predicted.png)
